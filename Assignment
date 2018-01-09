@@ -1,0 +1,13 @@
+create a function with 3 argument called (p,n,r)
+p,n,r- number type
+p- required arg
+n,r - optional
+
+n-3
+r-5.5%
+
+calculate simple interest for the given arg.
+
+calcuInterest(p)
+calcuInterest(p,n)
+calcuInterest(p,n,r)
